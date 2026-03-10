@@ -1,8 +1,6 @@
 import Arkanoid.Game.Game;
 
 /**.
- * Name: Omri Yanku
- * ID: 328370648
  * Full game of Ass3
  */
 public class Ass5Game {
